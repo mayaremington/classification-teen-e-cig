@@ -8,9 +8,9 @@
 
 <img width="788" alt="image" src="https://user-images.githubusercontent.com/79233614/142136358-6e9c96cb-cc6f-481b-87ba-d6e862b0dbcb.png">
 
-For additional figures, check out this project's [presentation slides](https://github.com/mayaremington/regression-covid-vax/blob/main/%20covid_vax_regression.pdf)!
+For additional figures, check out this project's [presentation slides](classification-teen-vape.pdf)!
 
 **Jupyter notebooks:**  
-[1) Webscraping](1_covid_vax_webscraping.ipynb)  
-[2) Cleaning](2_covid_vax_cleaning.ipynb)  
+[1) Cleaning](1_covid_vax_webscraping.ipynb)  
+[2) EDA](2_covid_vax_cleaning.ipynb)  
 [3) Modeling](3_covid_vax_regression.ipynb)  
