@@ -11,6 +11,6 @@
 For additional figures, check out this project's [presentation slides](classification-teen-vape.pdf)!
 
 **Jupyter notebooks:**  
-[1) Cleaning](1_covid_vax_webscraping.ipynb)  
-[2) EDA](2_covid_vax_cleaning.ipynb)  
-[3) Modeling](3_covid_vax_regression.ipynb)  
+[1) Cleaning](1_teen_e-cig_cleaning.ipynb)  
+[2) EDA](2_teen_e-cig_EDA.ipynb)  
+[3) Modeling](3_teen_e-cig_modeling.ipynb)  
